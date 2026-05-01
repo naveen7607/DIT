@@ -1,6 +1,6 @@
 import {BrowserRouter, Route, Routes} from 'react-router'
 
-import Home from './components/Home'
+import Home from './components/Body'
 
 import './App.css'
 
