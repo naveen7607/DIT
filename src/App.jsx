@@ -1,4 +1,4 @@
-import UserProfile from "./components/userprofile.jsx";
+import UserProfile from "./components/userprofiles.jsx";
 // import "./App.css";
 
 const userDetailsList = [
